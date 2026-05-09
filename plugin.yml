@@ -1,0 +1,6 @@
+name: HardcoreRebirth
+version: 1.0
+main: com.hardcorerebirth.HardcoreRebirth
+api-version: 1.21
+author: Custom
+description: A la mort en Hardcore, génère un nouveau monde avec une seed aléatoire et téléporte le joueur dedans.
